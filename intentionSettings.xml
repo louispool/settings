@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Groovy/Expression conversions/Split Variable Declaration" />
+    <ignoreAction name="XML/Insert Namespace Prefix" />
+  </component>
+</application>
+

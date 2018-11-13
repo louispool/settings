@@ -1,0 +1,14 @@
+<templateSet group="user">
+  <template name="sysout" value="System.out.println($END$);" description="Sytem.out.println" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="syserr" value="System.err.println($END$);" description="Sytem.err.println" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

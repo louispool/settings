@@ -1,0 +1,5 @@
+<application>
+  <component name="ScalaApplicationSettings">
+    <option name="ADD_OVERRIDE_TO_IMPLEMENTED" value="false" />
+  </component>
+</application>
