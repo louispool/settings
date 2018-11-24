@@ -1,4 +1,5 @@
 <code_scheme name="OneSearch" version="173">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="WRAP_COMMENTS" value="true" />
   <JavaCodeStyleSettings>
@@ -47,6 +48,7 @@
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_BEFORE_METHOD_BODY" value="1" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
+    <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
@@ -74,7 +76,6 @@
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
-    <option name="WRAP_LONG_LINES" value="true" />
     <option name="PARAMETER_ANNOTATION_WRAP" value="1" />
     <option name="VARIABLE_ANNOTATION_WRAP" value="1" />
     <option name="ENUM_CONSTANTS_WRAP" value="2" />
