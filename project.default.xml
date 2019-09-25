@@ -12,14 +12,20 @@
         <property name="GoToClass.includeLibraries" value="false" />
         <property name="GoToClass.toSaveIncludeLibraries" value="false" />
         <property name="GoToFile.includeJavaFiles" value="false" />
-        <property name="MemberChooser.copyJavadoc" value="false" />
-        <property name="MemberChooser.showClasses" value="true" />
         <property name="MemberChooser.sorted" value="false" />
-        <property name="last_opened_file_path" value="C:/Dev/Src" />
+        <property name="MemberChooser.showClasses" value="true" />
+        <property name="MemberChooser.copyJavadoc" value="false" />
         <property name="recentsLimit" value="5" />
-        <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+        <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
       </component>
       <component name="RunManager">
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file id="idea.log" enabled="true" />
+          <method />
+        </configuration>
         <configuration default="true" type="Applet" factoryName="Applet">
           <option name="WIDTH" value="400" />
           <option name="HEIGHT" value="300" />
@@ -81,36 +87,22 @@
       <component name="SbtLocalSettings">
         <option name="modificationStamps">
           <map>
-            <entry key="C:/Dev/Coursera/Scala/example" value="1459512774000" />
-            <entry key="C:/Dev/Src/coursera-bigdata/example" value="1489237744000" />
-            <entry key="C:/Dev/Src/coursera-bigdata/stackoverflow" value="1490276802000" />
-            <entry key="C:/Dev/Src/coursera-bigdata/timeusage" value="1490278032000" />
-            <entry key="C:/Dev/Src/coursera-bigdata/wikipedia" value="1476870620000" />
-            <entry key="C:/Dev/Src/coursera-parprog/barneshut" value="1475657830000" />
-            <entry key="C:/Dev/Src/coursera-parprog/example" value="1456686556000" />
-            <entry key="C:/Dev/Src/coursera-parprog/kmeans" value="1465231034000" />
-            <entry key="C:/Dev/Src/coursera-parprog/reductions" value="1465230082000" />
-            <entry key="C:/Dev/Src/coursera-parprog/scalashop" value="1465228694000" />
-            <entry key="C:/Dev/Src/coursera-progfun/example" value="1465589845460" />
-            <entry key="C:/Dev/Src/coursera-progfun/forcomp" value="1462309612000" />
-            <entry key="C:/Dev/Src/coursera-progfun/funsets" value="1462312640000" />
-            <entry key="C:/Dev/Src/coursera-progfun/objsets" value="1462315646000" />
-            <entry key="C:/Dev/Src/coursera-progfun/patmat" value="1462372864000" />
-            <entry key="C:/Dev/Src/coursera-progfun/recfun" value="1462365530000" />
-            <entry key="C:/Dev/Src/coursera-progfun2/calculator" value="1465303746000" />
-            <entry key="C:/Dev/Src/coursera-progfun2/example" value="1457113070000" />
-            <entry key="C:/Dev/Src/coursera-progfun2/quickcheck" value="1464280970000" />
-            <entry key="C:/Dev/Src/coursera-progfun2/streams" value="1464279852000" />
-            <entry key="C:/Dev/Src/coursera-scala-capstone/observatory" value="1497959576000" />
+            <entry key="C:/Dev/Workspaces/coursera-progfun/example" value="1459512774000" />
+            <entry key="C:/Dev/Workspaces/coursera-progfun/objsets" value="1467015509531" />
+            <entry key="C:/Dev/Workspaces/coursera-progfun/patmat" value="1467728751876" />
           </map>
         </option>
-        <option name="externalProjectsViewState">
-          <projects_view />
+        <option name="projectSyncType">
+          <map>
+            <entry key="C:/Dev/Workspaces/OLP/Shift" value="PREVIEW" />
+            <entry key="C:/Dev/Workspaces/OneSearch/api/opensearch" value="PREVIEW" />
+            <entry key="C:/Dev/Workspaces/OneSearch/opensearch" value="PREVIEW" />
+          </map>
         </option>
       </component>
       <component name="ScalaSbtSettings">
-        <option name="customLauncherEnabled" value="true" />
         <option name="customLauncherPath" value="C:\Program Files (x86)\sbt\bin\sbt-launch.jar" />
+        <option name="customVMPath" />
         <option name="maximumHeapSize" value="1000" />
       </component>
       <component name="masterDetails">

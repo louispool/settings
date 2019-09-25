@@ -1,4 +1,7 @@
 <application>
+  <component name="DebuggerSettings">
+    <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
+  </component>
   <component name="NodeRendererSettings">
     <Renderer ID="ClassRenderer">
       <option name="SHOW_FQ_TYPE_NAMES" value="true" />

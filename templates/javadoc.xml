@@ -1,0 +1,14 @@
+<templateSet group="javadoc">
+  <template name="@l" value="{@link $LINK$}" description="{@link }" toReformat="true" toShortenFQNames="true">
+    <variable name="LINK" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+  <template name="&lt;c" value="&lt;code&gt;$CODE$&lt;/code&gt;" description="&lt;code&gt;&lt;/code&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

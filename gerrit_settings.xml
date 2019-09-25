@@ -1,3 +1,3 @@
 <application>
-  <component name="GerritSettings" Login="lpool" Host="https://gerrit.it.here.com" ListAllChanges="false" AutomaticRefresh="false" RefreshTimeout="15" ReviewNotifications="false" PushToGerrit="true" ShowChangeNumberColumn="true" ShowChangeIdColumn="true" ShowTopicColumn="true" ShowProjectColumn="AUTO" CloneBaseUrl="" />
+  <component name="GerritSettings" Login="lpool" Host="https://gerrit.it.here.com" ListAllChanges="false" AutomaticRefresh="false" RefreshTimeout="0" ReviewNotifications="true" PushToGerrit="true" ShowChangeNumberColumn="true" ShowChangeIdColumn="true" ShowTopicColumn="true" ShowProjectColumn="AUTO" />
 </application>

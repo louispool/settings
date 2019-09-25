@@ -1,0 +1,5 @@
+<application>
+  <component name="ArchetypeCatalogSettings">
+    <archetype-catalog>https://lpool:**********@repo.platform.here.com/artifactory/open-location-platform/archetype-catalog.xml</archetype-catalog>
+  </component>
+</application>
