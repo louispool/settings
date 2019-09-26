@@ -2,7 +2,7 @@
   <component name="DockerRegistry">
     <DockerRegistry email="lodewijk.pool@here.com">
       <option name="address" value="docker-local.artifactory.in.here.com" />
-      <option name="name" value="HERE Artifactory" />
+      <option name="name" value="HERE Registry" />
       <option name="username" value="lpool" />
     </DockerRegistry>
   </component>

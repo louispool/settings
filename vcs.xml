@@ -31,7 +31,6 @@
     <option name="cloneParentDir" value="C:\Dev\Workspaces" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_TAG_NAMES" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
@@ -42,7 +41,7 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/OneDrive - HERE Global B.V-/Dev/fgc" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/OneDrive - HERE Global B.V/Dev/fgc" />
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
 </application>
