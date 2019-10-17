@@ -4,12 +4,13 @@
     <property name="created">2016-11-25T09:53:44</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2018-09-12T15:11:08</property>
+    <property name="modified">2019-10-17T17:49:08</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <attributes>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
