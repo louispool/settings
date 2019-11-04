@@ -13,7 +13,7 @@
   </component>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="Dockerfile-olp" type="Dockerfile" />
       <mapping ext="bin" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
